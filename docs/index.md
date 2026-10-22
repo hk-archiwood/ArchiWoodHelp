@@ -11,8 +11,8 @@ hero:
       text: Get started
       link: /getting-started/
     - theme: alt
-      text: How to find an article
-      link: /getting-started/how-to-use
+      text: How to sign up
+      link: /getting-started/how-to-sign-up
 
 features:
   - title: Getting Started
