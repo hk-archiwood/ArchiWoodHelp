@@ -1,10 +1,10 @@
 ---
 title: Design
-description: Guides for rooms, cabinets, panels, hardware, and parameters.
+description: Lessons from a new project through reports and nesting production.
 ---
 
 # Design
 
-Guides for rooms, cabinets, panels, hardware, and parameters belong here.
+These lessons follow one path, from a new project to production. Watch them in the order shown in the sidebar. Each page has a short introduction and the video. Press play to watch it on this page.
 
-Each article covers one task, such as creating a cabinet, editing a panel, or setting a joint. The sidebar lists them in working order.
+Lecture 4 is three videos: automatic table modeling, converting 2D CAD to a 3D model, and forward box modeling.
